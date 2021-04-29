@@ -1,0 +1,11 @@
+div{
+    transform: scale(0.5);
+   
+}
+
+.showing{
+    opacity: 1;
+}  
+.hidden{
+    opacity: 0;
+}
